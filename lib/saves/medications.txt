@@ -1,0 +1,4 @@
+1,Paracetamol,Morning,500,PEEL
+2,Ibuprofen,Afternoon,200,GTK
+3,Aspirin,Afternoon,100,MNP
+4,Ritalin,Evening,200,GTK
