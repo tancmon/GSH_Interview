@@ -1,16 +1,18 @@
 # gsh_interview
 
-A new Flutter project.
+A simple medication viewing app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Log in with the credentials
+Email: hello
+Password: world
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Task 4:
+There's login details is nessecary, thus there's validation if the user name and password matches.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Assuptions:
+1) This will be made into something that can view specific medication, not just the catergory of medicine, so there is an option to track expiry of that batch of medicine.
+2) Since there's preciption medicine, there should be a counter-part for over the counter medicine
+3) All fields are mandatory at the moment for medicine, so that is part of the validation checks.
